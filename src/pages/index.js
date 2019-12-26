@@ -16,7 +16,7 @@ const IndexPage = () => (
     <p>Welcome to the El Granada Sanctuary.</p>
     <p></p>
 
-    <div>
+    <div style={{ maxWidth: `512px`, marginBottom: `1.45rem` }}>
     <img src={flyover} alt="mavericks" />
     </div>
 
