@@ -12,7 +12,7 @@ const MixedPage = () => (
     <Link to="/">home</Link>
        <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>    
        <h1>{JSONData.title}</h1>
-    <p>These are the selection of Distilled Spirits from around the world.</p>
+    <p>These are the selection of Mixed drinks, made to order.</p>
     <ul>
       {JSONData.content.map((data, index) => {
         return <li key={`content_item_${index}`}>{data.item}</li>
