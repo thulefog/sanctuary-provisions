@@ -1,0 +1,34 @@
+{
+  "name": "bootpub",
+  "version": "1.0.0",
+  "description": "Dry Run of bootstrap based on carousel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "bootstrap",
+    "node"
+  ],
+  "author": "John Matthew Weston",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "bootstrap-loader": "^1.3.3",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "holder": "0.0.0",
+    "imports-loader": "^0.7.0",
+    "json-loader": "^0.5.4",
+    "node-sass": "^4.1.1",
+    "resolve-url-loader": "^1.6.1",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7"
+  }
+}
