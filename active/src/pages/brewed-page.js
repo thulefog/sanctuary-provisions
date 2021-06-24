@@ -11,9 +11,8 @@ import JSONData from "../content/brewed.json"
 const BrewedPage = () => (
   <Layout>
    <SEO title="BREWED" />
-    <Link to="/">home</Link>
-       <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>    
-       <h1>{JSONData.title}</h1>
+    <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>    
+    <h1>{JSONData.title}</h1>
     <p>These are the selection of beers from small craft brewers, primarily from California.</p>
     <ul>
       {JSONData.content.map((data, index) => {

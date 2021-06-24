@@ -3,6 +3,9 @@
  * with Gatsby's useStaticQuery component
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
+         <footer>
+          © {new Date().getFullYear()}, Site distilled by John Matthew Weston in El Granada, California
+        </footer>
  */
 
 import React from "react"

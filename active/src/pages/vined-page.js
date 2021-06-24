@@ -11,9 +11,8 @@ import JSONData from "../content/vined.json"
 const VinedPage = () => (
   <Layout>
    <SEO title="DISTILLED" />
-    <Link to="/">home</Link>
-       <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>    
-       <h1>{JSONData.title}</h1>
+    <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>    
+    <h1>{JSONData.title}</h1>
     <p>These are the selection of wines - primarily from California.</p>
     <ul>
       {JSONData.content.map((data, index) => {

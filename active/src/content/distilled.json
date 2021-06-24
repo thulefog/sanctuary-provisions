@@ -5,16 +5,13 @@
       "item": "Gin: Hendricks - Scotland"
     },
     {
-      "item": "Vodka: Belvedere - Poland"
-    },
-    {
       "item": "Vodka: Grey Goose - France"
     },
     {
       "item": "Tequila: Maestro Dobel Anejo - Mexico"
     },
     {
-      "item": "Tequila: Hornitas Reposado Agave - Mexico"
+      "item": "Tequila: Dos Hombres Mezcal - Mexico"
     },
     {
       "item": "Aquavit: Linie - Norway"
@@ -23,7 +20,7 @@
       "item": "Rye: Willett Family Rye - Kentucky"
     },
     {
-      "item": "Bourbon: Barrell Batch #025 - Kentucky"
+      "item": "Bourbon: Barrell Batch #017 - 10yrs, 4mo - Kentucky"
     },
     {
       "item": "Brandy: Cheap Swill - The United States of America"
@@ -40,17 +37,17 @@
     { 
       "item": "Irish Whiskey: Jameson 18 Year - Ireland" 
     },
-    { 
-      "item": "Irish Whiskey: Jameson - Ireland" 
-    },
     {
-      "item": "Cointreau - France"
+      "item": "Grand Marnier - France"
     },
     {
       "item": "Rum: Myer's Dark - Jamaica"
     },
     {
       "item": "Kahlua - Mexico"
+    },
+    {
+      "item": "Campari - Italy"
     },
     {
       "item": "Galliano -  Italy"
